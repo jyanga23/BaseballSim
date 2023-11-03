@@ -1,3 +1,3 @@
 # BaseballSim
 
-## MTH-455 Project 3
+# MTH-455 Project 3
